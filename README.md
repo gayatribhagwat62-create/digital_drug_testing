@@ -1,4 +1,6 @@
-# Digital Drug Testing Companion
+# Problem Statement Title : Digital Companion for Field Drug Testing
+# Smart India Hackathon 2026 Prototype
+
 
 ### A Smart Digital Solution for Colorimetric Field Drug Testing
 
